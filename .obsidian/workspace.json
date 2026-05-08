@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "薄伽梵歌.md",
+                "file": "会饮篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "薄伽梵歌"
+              "title": "会饮篇"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,14 +186,14 @@
   },
   "active": "d6b90be3d1133d90",
   "lastOpenFiles": [
+    "理想国.md",
+    "薄伽梵歌.md",
     "新建 文本文档.txt",
     "新建文件夹",
     "新建 RTF 文件.rtf",
-    "理想国.md",
     "会饮篇.md",
     "欢迎.md",
     "斐德若篇.md",
-    "薄伽梵歌.md",
     "2026-03-11.md"
   ]
 }
