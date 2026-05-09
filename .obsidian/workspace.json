@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "会饮篇.md",
+                "file": "会饮篇（未完待续）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "会饮篇"
+              "title": "会饮篇（未完待续）"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "薄伽梵歌 的大纲"
             }
+          },
+          {
+            "id": "13445383b5897bfa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +196,14 @@
   },
   "active": "d6b90be3d1133d90",
   "lastOpenFiles": [
+    "斐德若篇.md",
+    "会饮篇（未完待续）.md",
     "理想国.md",
     "薄伽梵歌.md",
     "新建 文本文档.txt",
     "新建文件夹",
     "新建 RTF 文件.rtf",
-    "会饮篇.md",
     "欢迎.md",
-    "斐德若篇.md",
     "2026-03-11.md"
   ]
 }
