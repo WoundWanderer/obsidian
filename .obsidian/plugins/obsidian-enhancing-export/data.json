@@ -52,9 +52,19 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
+  "pandocPath": {
+    "win32": "\"D:\\下载\\pandoc-3.9.0.2-windows-x86_64\\pandoc-3.9.0.2\\pandoc.exe\""
+  },
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "lastEditName": "Word (.docx)"
+  "lastEditName": "Word (.docx)",
+  "customDefaultExportDirectory": {
+    "win32": "D:\\桌面"
+  },
+  "lastExportDirectory": {
+    "win32": "D:\\桌面"
+  },
+  "lastExportType": "Word (.docx)"
 }
