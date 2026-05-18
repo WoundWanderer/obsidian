@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "会饮篇.md",
+                "file": "斐德若篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "会饮篇"
+              "title": "斐德若篇"
             }
           }
         ]
@@ -197,12 +197,13 @@
   },
   "active": "ddd0072311cccca8",
   "lastOpenFiles": [
+    "会饮篇.md",
+    "斐德若篇.md",
     "欢迎.md",
     "沉思录（皇帝专享）.md",
     "法律篇（挖坑中）.md",
     "斐德若篇(挖坑中).md",
     "未命名.md",
-    "会饮篇.md",
     "沉思录（康德版）.md",
     "理想国(慢慢填坑中).md",
     "会饮篇^8b3f10.md",
