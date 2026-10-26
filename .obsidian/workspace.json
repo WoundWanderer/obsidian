@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理想国(慢慢填坑中).md",
+                "file": "会饮篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "理想国(慢慢填坑中)"
+              "title": "会饮篇"
             }
           }
         ]
@@ -96,8 +96,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "collapseAll": false,
+                "file": "会饮篇.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "conflict-files-obsidian-git 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -199,19 +199,19 @@
   },
   "active": "43407197fcbc1c4d",
   "lastOpenFiles": [
+    "理想国（施工中）.md",
+    "斐德若篇（已新建文件夹）.md",
+    "欢迎.md",
+    "薄伽梵歌.md",
+    "会饮篇.md",
     "艺术家.md",
-    "理想国(慢慢填坑中).md",
     "conflict-files-obsidian-git.md",
     "好的教育.md",
     "^2.1.md",
     "勇敢.md",
     "以大见小.md",
-    "会饮篇.md",
     "会饮篇。。。.md",
     "这里苏格拉底对文艺作品的青睐于其要将艺术家驱逐出理想国家的主张大相径庭，关于艺术与艺术家见于2.5.md",
-    "薄伽梵歌.md",
-    "斐德若篇.md",
-    "欢迎.md",
     "沉思录（皇帝专享）.md",
     "法律篇（挖坑中）.md",
     "斐德若篇(挖坑中).md",
