@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 视图
+    groupBy:
+      property: tags
+      direction: ASC
