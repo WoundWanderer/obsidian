@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#希腊  ",
+      "color": {
+        "a": 1,
+        "rgb": 12895428
+      }
+    },
+    {
+      "query": "tag:#印度  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 0.99781328949645,
+  "lineSizeMultiplier": 1.00227323066274,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.496539193632116,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13641294347365962,
+  "scale": 0.19751685531535174,
   "close": true
 }
