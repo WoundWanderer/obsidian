@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "理想国（施工中）"
             }
-          },
-          {
-            "id": "6c63b02a91b52e4a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-11-16 14.33.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-11-16 14.33.06.excalidraw"
-            }
           }
         ]
       }
@@ -233,7 +221,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c56ba5483c5b1dfb",
+  "active": "647b063a801d0be5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-11-16 14.33.06.excalidraw.md",
     "理想国（施工中）.md",
@@ -267,7 +255,6 @@
     "沉思录（皇帝专享）.md",
     "法律篇（挖坑中）.md",
     "斐德若篇(挖坑中).md",
-    "未命名.md",
     "Pasted image 20260516164135.png",
     "Pasted image 20260516162420.png"
   ]
