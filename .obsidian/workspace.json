@@ -215,19 +215,19 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "smart-connections:Toggle Footer Connections": false
     }
   },
   "active": "647b063a801d0be5",
   "lastOpenFiles": [
+    "书架.base",
+    "未命名.base",
     "薄伽梵歌.md",
     "会饮篇.md",
     "理想国（施工中）.md",
-    "书架.base",
-    "未命名.base",
     "Excalidraw/Drawing 2026-11-16 14.33.06.excalidraw.md",
     "Pasted image 20261116143200.png",
     "Excalidraw/Drawing 2026-11-16 14.19.33.excalidraw.md",
