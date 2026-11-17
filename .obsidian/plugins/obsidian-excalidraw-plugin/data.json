@@ -281,7 +281,7 @@
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
   "autoexportPNG": false,
-  "autoexportSVG": false,
+  "autoexportSVG": true,
   "autosaveIntervalDesktop": 60000,
   "autosaveIntervalMobile": 30000,
   "autostartScriptFailures": {},

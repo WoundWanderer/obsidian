@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理想国（施工中）.md",
-                "mode": "source",
+                "file": "理想国/理想国（施工中）.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -215,19 +215,27 @@
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Toggle Footer Connections": false
+      "smart-connections:Toggle Footer Connections": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "647b063a801d0be5",
   "lastOpenFiles": [
     "书架.base",
+    "Excalidraw/Drawing 2026-11-17 22.48.07.excalidraw.md",
+    "理想国/Drawing 2026-11-17 22.47.55.excalidraw.md",
+    "Excalidraw",
+    "理想国/理想国（施工中）.md",
+    "Excalidraw/Drawing 2026-11-17 22.01.36.excalidraw.md",
+    "理想国/线喻图示.md",
+    "理想国",
+    "理想国",
+    "理想国（施工中） 1.md",
     "未命名.base",
     "薄伽梵歌.md",
     "会饮篇.md",
-    "理想国（施工中）.md",
     "Excalidraw/Drawing 2026-11-16 14.33.06.excalidraw.md",
     "Pasted image 20261116143200.png",
     "Excalidraw/Drawing 2026-11-16 14.19.33.excalidraw.md",
@@ -239,7 +247,6 @@
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw/Drawing 2026-11-16 13.56.37.excalidraw.md",
-    "Excalidraw",
     "斐德若篇（已新建文件夹）.md",
     "艺术家。。。。。。.md",
     "欢迎.md",
@@ -250,11 +257,6 @@
     "^2.1.md",
     "勇敢.md",
     "以大见小.md",
-    "会饮篇。。。.md",
-    "这里苏格拉底对文艺作品的青睐于其要将艺术家驱逐出理想国家的主张大相径庭，关于艺术与艺术家见于2.5.md",
-    "沉思录（皇帝专享）.md",
-    "法律篇（挖坑中）.md",
-    "斐德若篇(挖坑中).md",
     "Pasted image 20260516164135.png",
     "Pasted image 20260516162420.png"
   ]
