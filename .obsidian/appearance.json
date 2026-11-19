@@ -1,3 +1,5 @@
 {
-  "showRibbon": true
+  "showRibbon": true,
+  "accentColor": "#8f00db",
+  "textFontFamily": "Times New Roman,Microsoft YaHei"
 }
